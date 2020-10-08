@@ -3,6 +3,6 @@
 # evil_eight
 A Spooky Take on the Classic Magic 8 Ball
 
-Uasge: ./evil_eight <question>
+Uasge: ./evil_eight [question]
 
 Download and Enjoy!!
