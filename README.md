@@ -1,5 +1,4 @@
-![alt text][
-https://github.com/sarah-lishin/evil_eight/blob/main/assets/spooky-halloween-background.jpg]
+![alt text](https://github.com/sarah-lishin/evil_eight/blob/main/assets/spooky-halloween-background.jpg "Spooky Background")
 
 # evil_eight
 A Spooky Take on the Classic Magic 8 Ball
